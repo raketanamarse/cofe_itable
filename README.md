@@ -1,5 +1,6 @@
 # cofe_itable
 кофеный столик который нарисует твою фотографию, пока ты пьёшь кофе
+демонстрация --> https://www.youtube.com/watch?v=meZELhv3dHY
 
 
 
